@@ -1,8 +1,9 @@
 # ds-practice
 Practice repo for my DS skills: git, pandas, SQL, scikit-learn, forecasting.
 
-### Things I have learnt so far (Git)
-- 
-
 ## Progress
-- [x] git basics fdasfdsafsa
+- [x] git basics: [notes](notes/git.md)
+- [ ] pandas
+- [ ] SQL
+- [ ] scikit-learn
+- [ ] Forecasting
