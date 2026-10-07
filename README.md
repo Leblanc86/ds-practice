@@ -5,4 +5,4 @@ Practice repo for my DS skills: git, pandas, SQL, scikit-learn, forecasting.
 - 
 
 ## Progress
-- [x] git basics
+- [x] git basics fdasfdsafsa
